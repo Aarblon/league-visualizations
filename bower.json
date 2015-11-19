@@ -1,0 +1,29 @@
+{
+  "name": "d3-demo",
+  "authors": [
+    "Aaron Wolfe <aar.wolfe@gmail.com>"
+  ],
+  "description": "Quick demo to demonstrate my d3 skills",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "d3"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.9",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
